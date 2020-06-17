@@ -1,2 +1,2 @@
-# cell-instance-segementation-pytorch
-An implement of U-Net and U-Net++ for instance segementation
+**项目简介**
+本项目是清华大学2020年春季学期模式识别与机器学习课程的期末大作业，大致是完成对一些医疗图像（细胞）的实例分割，代码采用语义分割+后处理的方法进行实例分割，具体的代码介绍在实验报告的附录2中。
